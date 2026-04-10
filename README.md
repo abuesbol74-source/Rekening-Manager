@@ -51,4 +51,4 @@ chmod +x rekening.sh
 * **SHA-256 Hashing**: Kata sandi di-hash untuk keamanan ekstra.
 * **Local Data**: Data tersimpan secara lokal.
 
-**Created by LAKSAMANA DZU NUR AIN**
+**Created by LAKSAMANA DZU NUR NAIN**
